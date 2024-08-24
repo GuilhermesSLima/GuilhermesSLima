@@ -2,7 +2,6 @@
 
 <ul>
     <li>🏫 Cursando técnico em informática</li>
-    <li>📚 Atualmente estudando Jquery e frameworks</li>
 </ul>
 <hr>
 <h1>Resumo</h1>
